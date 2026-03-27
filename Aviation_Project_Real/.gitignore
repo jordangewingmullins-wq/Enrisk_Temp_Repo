@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints/
+
+# data
+data/avall.mdb
+
+# optional (recommended)
+data/csv_outputs/
+
